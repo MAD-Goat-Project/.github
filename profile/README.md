@@ -21,7 +21,7 @@ to quickly learn about the main MAD vulnerabilities and how to mitigate them.
 
 <div align="center">
   <a href="https://github.com/MAD-Goat-Project/mad-web-app">
-    <img src="images/mad-goat.png" alt="Logo" width="180" height="200">
+    <img src="mad-goat.png" alt="Logo" width="180" height="200">
   </a>
 
   <p align="center">
