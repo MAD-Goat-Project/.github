@@ -24,26 +24,129 @@
   </p>
 </div>
 
-The main objective of the MAD Goat project is to develop a software application that takes into consideration all the
-Modern Application Development building blocks and is vulnerable by nature to the security of these building blocks. The
-developed application should serve as a security benchmark project to understand the quality of different security test
-scanners. The MAD Goat application should also have an educational focus in its nature, providing its users the ability
-to quickly learn about the main MAD vulnerabilities and how to mitigate them.
+ <div class="section">
+    <h3>Project Objective</h3>
+    <p>The main objective of the MAD Goat project is to develop a software application that takes into consideration all the Modern Application Development building blocks and is vulnerable by nature to the security of these building blocks. The developed application should serve as a security benchmark project to understand the quality of different security test scanners. The MAD Goat application should also have an educational focus in its nature, providing its users the ability to quickly learn about the main MAD vulnerabilities and how to mitigate them.</p>
+  </div>
+  <div class="section">
+    <h3>Educational</h3>
+    <p>Fortify Your Skills:</p>
+    <p>Immerse Yourself in MAD Goat Interactive Lessons on the main MAD Building Blocks, Vulnerabilities, and Fixes!</p>
+  </div>
+  <div class="section">
+    <h3>Vulnerable by nature</h3>
+    <p>Unlock MAD's Secrets:</p>
+    <p>All of MAD Goat has security vulnerabilities. Explore and Conquer its Multitude of Attack Vectors!</p>
+  </div>
+  <div class="section">
+    <h3>A benchmark tool</h3>
+    <p>Ignite Your Insights:</p>
+    <p>Assess the Efficiency of Your AST Tools, Identify Core Vulnerabilities, and Generate Quality Reports!</p>
+  </div>
 
-### Educational
+# Getting Started
 
-Fortify Your Skills:
-Immerse Yourself in MAD Goat Interactive Lessons on the main MAD Building Blocks, Vulnerabilities, and Fixes!
+## Prerequisites
 
-### Vulnerable by nature
+### Localhost Deveployment
 
-Unlock MAD's Secrets:
-All of MAD Goat as security vulnerabilities. Explore and Conquer its Multitude of Attack Vectors!
+- [Docker](https://docs.docker.com/get-docker/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
 
-### A benchmark tool
+## Installation
 
-Ignite Your Insights:
-Assess the Efficiency of Your AST Tools, Identify Core Vulnerabilities, and Generate Quality Reports!
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/MAD-Goat-Project/mad-deployment-service
+   ```
+
+2. Run the following command to start the MAD Goat application
+
+   ```sh
+   cd compose
+   docker compose -f configurations.yaml -f infrastructure.yaml -f services.yaml up
+   ```
+
+3. Go to http://app.mad.localhost to access the MAD Goat application
+
+For more information on how to deploy MAD Goat on a cloud provider, please refer to the follwoing repository:
+
+- [MAD Goat Deployment Service](https://github.com/MAD-Goat-Project/mad-deployment-service)
+
+# Demo (WIP)
+
+## Web App
+
+### Login Page
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-1.png" alt="Login Page" width="300" height="200">
+  </a>
+</div>
+
+### Home Page
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-3.png" alt="Home Page" width="400" height="200">
+  </a>
+</div>
+
+### Assessment Page
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-4.png" alt="Assessment Page" width="400" height="200">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-5.png" alt="Assessment Page Interactive" width="400" height="200">
+  </a>
+</div>
+
+### Scoreboard Page
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-10.png" alt="Scoreboard Gamer Tag" width="400" height="200">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-11.png" alt="Scoreboard Page" width="400" height="200">
+  </a>
+</div>
+
+## Infrastructure
+
+### Traefik Dashboard
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-6.png" alt="Traefik Dasboard" width="400" height="200">
+  </a>
+</div>
+
+### Keycloak Dashboard
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-7.png" alt="Keycloak Dasboard" width="400" height="200">
+  </a>
+</div>
+
+### RabbiMQ Page
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-8.png" alt="RabbiMQ Page" width="400" height="200">
+  </a>
+</div>
 
 ## Open Source Infrastructure
 
@@ -68,31 +171,6 @@ Assess the Efficiency of Your AST Tools, Identify Core Vulnerabilities, and Gene
 ![Java]
 ![Spring]
 
-# Web App Demo (WIP)
-
-### Login Page
-
-<div align="center">
-  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
-    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-1.png" alt="Login Page" width="300" height="200">
-  </a>
-</div>
-
-### Home Page
-
-<div align="center">
-  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
-    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-3.png" alt="Home Page" width="400" height="200">
-  </a>
-</div>
-
-### Lessons Page
-
-<div align="center">
-  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
-    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-10.png" alt="Home Page" width="400" height="200">
-  </a>
-</div>
 ## License
 
 Distributed under the MIT License.
