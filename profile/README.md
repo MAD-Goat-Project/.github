@@ -1,5 +1,7 @@
 # MAD Goat Project
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <div align="center">
   <a href="https://github.com/MAD-Goat-Project/mad-web-app">
     <img src="mad-goat.png" alt="Logo" width="180" height="200">
@@ -45,9 +47,36 @@ Assess the Efficiency of Your AST Tools, Identify Core Vulnerabilities, and Gene
 
 ## Open Source Infrastructure
 
-## Technology Stack
+![Docker]
+![Kubernetes]
 
-- [![React][react.js]][react-url]
+![Traefik Proxy]
+
+![rabbitmq]
+
+![Postgres]
+![MongoDB]
+
+## Languages & Frameworks
+
+![Typescript]
+![react.js]
+
+![NodeJS]
+![NestJS]
+
+![Java]
+![Spring]
+
+# Demo Images
+
+## Login Page
+
+![Login Page](https://user-images.githubusercontent.com/25454503/137638814-9b6b8b0a-2b0a-4b0a-8b0a-9b0a9b0a9b0a.png)
+
+## License
+
+Distributed under the MIT License.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -62,20 +91,18 @@ Assess the Efficiency of Your AST Tools, Identify Core Vulnerabilities, and Gene
 [issues-url]: https://github.com/MAD-Goat-Project/mad-web-app/issues
 [license-shield]: https://img.shields.io/github/license/MAD-Goat-Project/mad-web-app.svg?style=for-the-badge
 [license-url]: https://github.com/MAD-Goat-Project/mad-web-app/blob/main/LICENSE
-[product-screenshot]: images/screenshot.png
-[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
-[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[vue-url]: https://vuejs.org/
-[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[angular-url]: https://angular.io/
-[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[svelte-url]: https://svelte.dev/
-[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[laravel-url]: https://laravel.com
-[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[bootstrap-url]: https://getbootstrap.com
-[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[jquery-url]: https://jquery.com
+[min.io]: https://img.shields.io/avatars.githubusercontent.com/u/695951?s=200&v=4
+[minio-url]: https://min.io/
+[NodeJS]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[Spring]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[postgres]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[rabbitmq]: https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white
+[NestJS]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
+[Kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+[Traefik Proxy]: https://img.shields.io/static/v1?style=for-the-badge&message=Traefik+Proxy&color=24A1C1&logo=Traefik+Proxy&logoColor=FFFFFF&label=
+[Docker]: https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=
