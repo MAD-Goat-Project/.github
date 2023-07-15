@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/MAD-Goat-Project/mad-web-app">
-    <img src="mad-goat.png" alt="Logo" width="180" height="200">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/mad-goat.png" alt="Logo" width="180" height="200">
   </a>
 
   <h3 align="center">MAD Goat Project</h3>
@@ -68,12 +68,31 @@ Assess the Efficiency of Your AST Tools, Identify Core Vulnerabilities, and Gene
 ![Java]
 ![Spring]
 
-# Demo Images
+# Web App Demo (WIP)
 
-## Login Page
+### Login Page
 
-![Login Page](https://user-images.githubusercontent.com/25454503/137638814-9b6b8b0a-2b0a-4b0a-8b0a-9b0a9b0a9b0a.png)
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-1.png" alt="Login Page" width="300" height="200">
+  </a>
+</div>
 
+### Home Page
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-3.png" alt="Home Page" width="400" height="200">
+  </a>
+</div>
+
+### Lessons Page
+
+<div align="center">
+  <a href="https://github.com/MAD-Goat-Project/mad-web-app">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/demo/mad-demo-10.png" alt="Home Page" width="400" height="200">
+  </a>
+</div>
 ## License
 
 Distributed under the MIT License.
