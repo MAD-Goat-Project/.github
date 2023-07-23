@@ -76,6 +76,10 @@ For more information on how to deploy MAD Goat on a cloud provider, please refer
 
 # Demo (WIP)
 
+## Check out the demo video on YouTube :video_camera:
+
+[![MAD Goat Demo](https://img.youtube.com/vi/EnWrzDs8ZHw/0.jpg)](https://youtu.be/EnWrzDs8ZHw)
+
 ## Web App
 
 ### Login Page
