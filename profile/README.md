@@ -4,10 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/MAD-Goat-Project/mad-web-app">
-    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/mad-goat.png" alt="Logo" width="180" height="200">
+    <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/mad-goat.png" alt="MAD Logo" width="180" height="200">
   </a>
 
   <h3 align="center">MAD Goat Project</h3>
+  <h3 align="center">Powered by <img src="src=https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/checkmarx/cxblue.png" alt="Checkmarx Logo" width="180" height="200"></h3>
   <h4 align="center">Embrace the Power of Modern Application Development!</h4>
 
   <p align="center">
