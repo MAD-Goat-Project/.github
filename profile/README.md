@@ -6,9 +6,11 @@
   <a href="https://github.com/MAD-Goat-Project/mad-web-app">
     <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/mad-goat.png" alt="MAD Logo" width="180" height="200">
   </a>
+<p>&nbsp;</p>
+  <h6 align="center">Powered by </h3>
+  <img src="https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/checkmarx/cxblue.svg" alt="Checkmarx Logo" width="500" height="17">
 
-  <h3 align="center">MAD Goat Project</h3>
-  <h3 align="center">Powered by <img src="src=https://raw.githubusercontent.com/MAD-Goat-Project/.github/main/profile/checkmarx/cxblue.png" alt="Checkmarx Logo" width="180" height="200"></h3>
+<p>&nbsp;</p>
   <h4 align="center">Embrace the Power of Modern Application Development!</h4>
 
   <p align="center">
@@ -176,7 +178,23 @@ For more information on how to deploy MAD Goat on a cloud provider, please refer
 ![Java]
 ![Spring]
 
+![Python]
+![Flask]
+
+![Go]
+
+## Project Support
+
+We are grateful for the invaluable support from:
+
+- [Checkmarx](https://checkmarx.com)
+- [Instituto Politécnico do Cavado e do Ave (IPCA)](https://ipca.pt)
+
+Their contributions have been instrumental in the success of this project.
+
 ## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Distributed under the MIT License.
 
@@ -208,3 +226,6 @@ Distributed under the MIT License.
 [Kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
 [Traefik Proxy]: https://img.shields.io/static/v1?style=for-the-badge&message=Traefik+Proxy&color=24A1C1&logo=Traefik+Proxy&logoColor=FFFFFF&label=
 [Docker]: https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Go]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[Flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
