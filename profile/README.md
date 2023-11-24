@@ -16,7 +16,7 @@
   <p align="center">
     Deliberately insecure web application. Truly MAD.
     <br />
-    <a href="https://github.com/MAD-Goat-Project/mad-web-app"><strong>Explore the docs »</strong></a>
+    <a href="https://mad-goat-project.github.io/mad-goat-docs/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/MAD-Goat-Project/mad-web-app">View Demo</a>
